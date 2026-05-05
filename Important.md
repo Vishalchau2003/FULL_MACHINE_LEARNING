@@ -33,9 +33,7 @@ fare_amount = 5000 ❌ (unrealistic)
 ---
 
 
----
-
-### 2. dir(model)
+# 2. dir(model)
 
 
 👉 Returns:
