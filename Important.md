@@ -34,8 +34,9 @@ fare_amount = 5000 ❌ (unrealistic)
 
 
 ---
-### 1. Use dir() (MOST COMMON)
-# dir(model)
+
+### 2. dir(model)
+
 
 👉 Returns:
 all methods
